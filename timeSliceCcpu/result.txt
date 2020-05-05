@@ -1,0 +1,4 @@
+
+ Time1 =1000 time slice! 
+How many process do you want to run:6487756
+No.    1 process input pname: Liu           runtime:2000           arrivetime48729188No.    2 process input pname: Wang           runtime:3000           arrivetime48729220No.    3 process input pname: 3300           runtime:3300           arrivetime48729252No.    4 process input pname: Li           runtime:2000           arrivetime48729284No.    5 process input pname: Ma           runtime:6000           arrivetime48729316Time slice is 300000(time  300);Process 3300 start!
